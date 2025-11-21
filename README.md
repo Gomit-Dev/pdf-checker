@@ -12,7 +12,7 @@ The goal was to keep things simple and readable.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 **Frontend:** React + Vite  
 **Backend:** Node.js + Express  
 **PDF Parsing:** pdf-parse  
