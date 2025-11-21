@@ -20,27 +20,27 @@ The goal was to keep things simple and readable.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Backend
--cd backend
--npm install
--cp .env.example .env
--Add your OPENAI_API_KEY in the .env
--npm start
--Backend runs on **http://localhost:4000**
+- cd backend
+- npm install
+- cp .env.example .env
+- Add your OPENAI_API_KEY in the .env
+- npm start
+- Backend runs on **http://localhost:4000**
 
 ---
 
 ### 2. Frontend
--cd frontend
--npm install
--npm run dev
--Frontend runs on **http://localhost:5173**
+- cd frontend
+- npm install
+- npm run dev
+- Frontend runs on **http://localhost:5173**
 
 ---
 
-## ✔ Features
+## Features
 - Upload a PDF (2–10 pages)
 - Enter up to 3 rules
 - Clean table with pass/fail, evidence, reasoning & confidence
@@ -48,7 +48,7 @@ The goal was to keep things simple and readable.
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 (Add your screenshot here once you run it locally)
 
 ---
